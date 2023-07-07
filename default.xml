@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="https://github.com/kumaramit124" name="origin"/>
+  
+  <default remote="origin" sync-j="4" revision="master"/>
+  
+  <project name="kernel" path="kernel"/>
+  <project name="app" path="app"/>
+  
+</manifest>
